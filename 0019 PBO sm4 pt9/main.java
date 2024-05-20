@@ -1,3 +1,7 @@
+// Fahnur Qoirul Anwar
+// 22.0504.0019
+
+
 abstract class Keluarga {
     private String nama;
     private String kelamin;
